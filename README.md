@@ -14,3 +14,7 @@
 # best practice
 - https://github.com/jpotts18/sequelize-starter
 - http://h2plus.biz/hiromitsu/entry/tag/ベストプラクティス
+
+# git
+- http://sue445.hatenablog.com/entry/2014/08/07/015811
+- http://qiita.com/mtsuge/items/607952d1bec033c779c0
